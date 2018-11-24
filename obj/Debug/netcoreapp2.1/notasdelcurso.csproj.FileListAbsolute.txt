@@ -1,0 +1,11 @@
+C:\Users\usuario\notasdelcurso\bin\Debug\netcoreapp2.1\notasdelcurso.deps.json
+C:\Users\usuario\notasdelcurso\bin\Debug\netcoreapp2.1\notasdelcurso.runtimeconfig.json
+C:\Users\usuario\notasdelcurso\bin\Debug\netcoreapp2.1\notasdelcurso.runtimeconfig.dev.json
+C:\Users\usuario\notasdelcurso\bin\Debug\netcoreapp2.1\notasdelcurso.dll
+C:\Users\usuario\notasdelcurso\bin\Debug\netcoreapp2.1\notasdelcurso.pdb
+C:\Users\usuario\notasdelcurso\obj\Debug\netcoreapp2.1\notasdelcurso.csprojAssemblyReference.cache
+C:\Users\usuario\notasdelcurso\obj\Debug\netcoreapp2.1\notasdelcurso.csproj.CoreCompileInputs.cache
+C:\Users\usuario\notasdelcurso\obj\Debug\netcoreapp2.1\notasdelcurso.AssemblyInfoInputs.cache
+C:\Users\usuario\notasdelcurso\obj\Debug\netcoreapp2.1\notasdelcurso.AssemblyInfo.cs
+C:\Users\usuario\notasdelcurso\obj\Debug\netcoreapp2.1\notasdelcurso.dll
+C:\Users\usuario\notasdelcurso\obj\Debug\netcoreapp2.1\notasdelcurso.pdb
